@@ -6,7 +6,9 @@ Lecture 1 : [I'm an inline-style link](https://github.com/Spandan-Madan/learning
 
 
 **FAQs**
+
 Q) How do I run the ipynb file?
+
 A) Create an account on colab.research.google.com. Then, upload this ipynb file on your colab to play with it.
 
 
