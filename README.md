@@ -9,6 +9,4 @@ Lecture 1 : [[Code]](https://github.com/Spandan-Madan/learning_to_speak_python/b
 
 Q) How do I run the ipynb file?
 
-A) Create an account on colab.research.google.com. Then, upload this ipynb file on your colab to play with it.
-
-
+A) Create an account on colab.research.google.com. Then, When you click on the above link to see the code, it will take you the notebook on github. That has a button up top which says "open in colab". That should work!
