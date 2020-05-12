@@ -1,0 +1,11 @@
+You are given 2 files - India_covid.txt and Canada_covid.txt.
+
+Each file contains 3 columns - Confirmed_Cases, Deaths and Recovered.
+
+Every row corresponds to the number of cases on a particular date, with the last row corresponding to May 3rd. There is data for 50 days, so each file has 51 rows (first row gives names of columns).
+
+Your task is to read both the files, and store the number of confirmed cases in each file into 2 lists. Then you should plot these two lists together to see how the growth of COVID in India and Canada compares over the past 50 days!
+
+Note that you will have to upload these files to your file on colab. There's a button to upload files on colab! I made a quick video showing how to do this - https://www.youtube.com/watch?v=ZjkwbBfyhIE
+
+If there's any questions, create an issue on Github!
