@@ -1,8 +1,0 @@
-Your assignment this week is to build further on tasks covered in Assignment 1 with 2 main learning objectives -
-
-1. Instead of repeating the same code for India and Canada's Covid data, you will write the code for extracting information from the files inside a function. This function would take as input the country's name, and then read the relevant file and return information in the file.
-
-2. You will google search how to add titles, x and y axis labels, and labels for 'India' and 'Canada' lines in your plots.
-
-
-If there's any questions, create an issue on Github!
