@@ -6,6 +6,7 @@ Lecture 1 : [[Code]](https://github.com/Spandan-Madan/learning_to_speak_python/b
 
 Lecture 2 : [[Slides]](https://github.com/Spandan-Madan/learning_to_speak_python/blob/master/Lecture_2%20-%20StackOverflow%20et%20al.pdf)[[Video]](https://www.youtube.com/watch?v=sbaAJcfWvAU&t=303s)
 
+Lecture 3 : [[Slides]]() [[Video]](https://www.youtube.com/watch?v=t2ZUNF5J2A0)
 **FAQs**
 
 Q) How do I run the ipynb file?
