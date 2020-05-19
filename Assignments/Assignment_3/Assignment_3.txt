@@ -1,0 +1,21 @@
+Your assignment this week is to scrape the internet to get lyrics from 2 different artists. In the next lecture, we will use this scraped data, to learn more about data analysis in python.
+
+We will scrape the lyrics for two artists - Steven Wilson and Eminem.
+
+# Step 1 - Scrape all lyrics of songs from these 2 links:
+- https://songmeanings.com/artist/view/songs/137438985903/
+- https://songmeanings.com/artist/view/songs/94/
+
+These pages contain links pointing to different songs by these artists. Step 1 is to Use beautifulsoup module, as in the class to scrape these links for their different song pages, and store them in a list.
+
+# Step 2 - use for loop to go over these links in the list, and for each page scrape the lyrics text on this page. For this, you would need to use getText() like in the class. In class, we got the text from the <p> tag. Here, the webpage contains the text in the <div> tag, which is another kind of tag in HTML. To help you a bit with this:
+
+When we say: for link in soup.findAll('a')
+
+We are getting all <a> tags in HTML. To get div, we can do <div>. More specifically, in this case we will need to do:
+
+soup.findAll("div", {"class": "holder lyric-box"})
+
+# Step 3 - Append lyrics from each link into a list containing all the lyrics by an artist. 
+
+# Step 4 - Write it all to a file. Very much like F.readlines(), we have F.writelines(). You can google to find out how to use it.
