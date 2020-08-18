@@ -1,5 +1,7 @@
 # learning_to_speak_python
-A course I am putting together to make the quarantine more productive for people from across diverse backgrounds. The goal is to teach them to communicate with computers using python.
+I designed this course during the COVID-19 quarantine, to help a few friends who wanted to learn programming for their own trades. These people came from diverse backgrounds - law, neuroscience, economics, program management and management consulting. I thought I should make it public, with the goal to teach people how to communicate with computers using python!
+
+There's a total of 6 lectures, along with 6 assignments. At the end there's a final exam for you to take yourself. At the end of this, you should know enough python to start coding! Curious why you should learn to code? 
 
 
 Lecture 1 : [[Code]](https://github.com/Spandan-Madan/learning_to_speak_python/blob/master/Lecture_Code/Lecture_1.ipynb) [[Slides]](https://github.com/Spandan-Madan/learning_to_speak_python/blob/master/Lecture_Slides/Lecture%201%20-%20Hello%2C%20world!.pdf) [[Video]](https://www.youtube.com/watch?v=eX5CGX1s_CM)
