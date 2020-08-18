@@ -4,9 +4,15 @@ A course I am putting together to make the quarantine more productive for people
 
 Lecture 1 : [[Code]](https://github.com/Spandan-Madan/learning_to_speak_python/blob/master/Lecture_Code/Lecture_1.ipynb) [[Slides]](https://github.com/Spandan-Madan/learning_to_speak_python/blob/master/Lecture_Slides/Lecture%201%20-%20Hello%2C%20world!.pdf) [[Video]](https://www.youtube.com/watch?v=eX5CGX1s_CM)
 
-Lecture 2 : [[Slides]](https://github.com/Spandan-Madan/learning_to_speak_python/blob/master/Lecture_Slides/Lecture_2%20-%20StackOverflow%20et%20al.pdf)[[Video]](https://www.youtube.com/watch?v=sbaAJcfWvAU&t=303s)
+Lecture 2 : [[Slides]](https://github.com/Spandan-Madan/learning_to_speak_python/blob/master/Lecture_Slides/Lecture_2%20-%20StackOverflow%20et%20al.pdf)[[Video]](https://www.youtube.com/watch?v=sbaAJcfWvAU)
 
-Lecture 3 : [[Slides]](https://github.com/Spandan-Madan/learning_to_speak_python/blob/master/Lecture_Slides/Lecture_2%20-%20StackOverflow%20et%20al.pdf) [[Video]](https://www.youtube.com/watch?v=t2ZUNF5J2A0)
+Lecture 3 : [[Slides]](https://github.com/Spandan-Madan/learning_to_speak_python/blob/master/Lecture_Slides/Lecture%203%20-%20Learning%20to%20scrape%20the%20web.pdf) [[Video]](https://www.youtube.com/watch?v=t2ZUNF5J2A0)
+
+Lecture 4 : [[Slides]](https://github.com/Spandan-Madan/learning_to_speak_python/blob/master/Lecture_Slides/Lecture%204%20-%20Important%2C%20boring%20stuff.pdf) [[Video]](https://www.youtube.com/watch?v=6q7LoSOAG8o)
+
+Lecture 5 : [[Video]](https://www.youtube.com/watch?v=LI617VqIA3k)
+
+Lecture 6 : [[Slides]](https://github.com/Spandan-Madan/learning_to_speak_python/blob/master/Lecture_Slides/Lecture%206.pdf) [[Video]](https://www.youtube.com/watch?v=TYJD3tuqZHM)
 
 **FAQs**
 
